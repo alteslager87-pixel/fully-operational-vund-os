@@ -1,30 +1,38 @@
-# 👑 VUND-OS v2.00 GOLD EDITION
-
-![Version](https://img.shields.io/badge/Version-2.00_GOLD-gold)
-![Status](https://img.shields.io/badge/Status-STABLE-green)
-![Author](https://img.shields.io/badge/Author-Coding_God_Yaroslav-blue)
-![Architecture](https://img.shields.io/badge/Arch-x86_Monolithic-orange)
-![License](https://img.shields.io/badge/License-VUND_Private-red)
-
-**VUND-OS** is a high-performance monolithic operating system designed for total hardware control. No bloatware, no lag—just pure code and direct port manipulation.
+# 🪐 VUND-DOS 2.10 GOLD EDITION [SP1]
+> **Project Status:** Confidential / Private | **Lead Developer:** Yaroslav (Coding God) | **Platform:** x86 Assembly
 
 ---
 
-## 🚀 Key Features
+## 🛠 Project Overview
+**VUND-DOS** is a high-performance, independent operating system designed for direct hardware control and maximum efficiency. It eliminates OS overhead, giving the developer 100% control over the CPU and memory.
 
-* 📦 **Monolithic Architecture:** All drivers (Video, Keyboard, IDE, PC Speaker) are baked directly into the kernel for maximum execution speed.
-* 🛠 **VUND Setup:** Custom pre-build installer to configure driver modules (Mouse, Speaker, Ethernet).
-* 💾 **Filesystem v2:** Integrated commands like `create fi`, `create fo`, and the legendary `goto dsk` for drive switching.
-* 📟 **KIM-1 Monitor:** Built-in low-level HEX memory monitor for true system hackers.
-* 🎹 **Mechanical Keyboard Optimization:** High-polling PS/2 driver for the best tactile typing experience.
+### ✨ SP1 Key Features:
+* **Hyper-Compact Bootloader:** 512-byte optimized boot sequence.
+* **VUND-COM Standard:** Native support for Flat Binary executable formats.
+* **Phantom Drive Tech:** Stealth mode functionality when running from rear USB ports.
+* **Intelligent Setup Wizard:** A console-based installer with environment detection (Hardware vs. VUND-BOX Emulator).
 
 ---
 
-## 🛠 How to Build
+## 📂 Repository Structure
+* `/src` — Core kernel and bootloader source code (.asm)
+* `/bin` — Compiled .com binaries and disk images
+* `/tools` — VUND-BOX: A custom Lua-based emulator for safe testing
+* `/docs` — Installation guides and internal technical specs
 
-Requirements: **GCC** and **Binutils** (i386-elf-gcc recommended).
+---
 
-1. **Configuration:**
-   ```bash
-   gcc setup.c -o setup.exe
-   ./setup.exe
+## 🚀 Architect's Workflow
+1. **Compilation:** Use FASM to compile `kernel.asm` into `CORE.COM`.
+2. **Simulation:** Run `vund-box.lua` to test system calls without risking physical hardware.
+3. **Deployment:** Burn the image to a USB drive, insert into a rear port, and boot via BIOS.
+
+---
+
+## 🛡 Security & Guidelines
+1. **Strict Confidentiality:** Code remains private until the "Public Release" command is issued.
+2. **System Integrity:** Always verify the partition table before writing to physical sectors.
+3. **Coding God Status:** Full administrative rights are reserved for the Lead Developer only.
+
+---
+*Developed by Yaroslav in 2026. Powered by pure logic.*
