@@ -1,0 +1,8 @@
+### 💿 HOW TO INSTALL VUND-DOS:
+
+1. **FLASH IT:** Write the `.bin` file directly to your USB flash drive (use a tool like Rufus or 'dd').
+2. **REBOOT:** Restart your computer and enter the BIOS/Boot Menu.
+3. **BOOT:** Select your USB drive as the primary boot device.
+4. **SETUP:** The VUND-DOS Setup Wizard will initialize. Follow the on-screen prompts to configure the system.
+5. **FINAL STEP:** Once the drivers and core files are deployed, restart your PC again.
+6. **DONE:** Tada! You are now running VUND-DOS. Welcome to the elite level of computing.
