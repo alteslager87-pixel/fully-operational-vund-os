@@ -2,9 +2,8 @@
 **Architect:** Yaroslav (The Coding God)  
 **Organization:** VUND-DOS TEAM  
 **Status:** READY-TO-USE (ISO & Binary Included)
-##DO IT!!! Read The Fucking Manual
 ---
-##DO IT!!! Read The Fucking Manual
+DO IT!!! Read The Fucking Manual
 ---
 ## 🚀 Instant Launch
 This repository contains the pre-compiled bootable files. You don't need to compile anything unless you want to change the source code.
