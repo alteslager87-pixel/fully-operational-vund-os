@@ -1,6 +1,8 @@
 📘 OFFICIAL INSTALLATION GUIDE (VUND-DOS GOLD EDITION)
 This guide will help you move VUND-DOS from this repository to your physical hardware or virtual machine.
 
+but do not care about "Hello, Yaroslav!", i meant User, im very sorry!
+
 🛠 Method 1: Physical Hardware (Flash Drive) - RECOMMENDED
 Use this method to experience the full power of VUND-DOS on real silicon.
 
