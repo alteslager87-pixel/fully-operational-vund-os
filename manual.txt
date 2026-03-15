@@ -1,8 +1,63 @@
-### 💿 HOW TO INSTALL VUND-DOS:
+📘 OFFICIAL INSTALLATION GUIDE (VUND-DOS GOLD EDITION)
+This guide will help you move VUND-DOS from this repository to your physical hardware or virtual machine.
 
-1. **FLASH IT:** Write the `.bin` file directly to your USB flash drive (use a tool like Rufus or 'dd').
-2. **REBOOT:** Restart your computer and enter the BIOS/Boot Menu.
-3. **BOOT:** Select your USB drive as the primary boot device.
-4. **SETUP:** The VUND-DOS Setup Wizard will initialize. Follow the on-screen prompts to configure the system.
-5. **FINAL STEP:** Once the drivers and core files are deployed, restart your PC again.
-6. **DONE:** Tada! You are now running VUND-DOS. Welcome to the elite level of computing.
+🛠 Method 1: Physical Hardware (Flash Drive) - RECOMMENDED
+Use this method to experience the full power of VUND-DOS on real silicon.
+
+Prepare your USB Drive: Plug in any USB flash drive (all data on it will be erased!).
+
+Open Win32 Disk Imager:
+
+Launch the application on your Windows machine.
+
+In the "Image File" section, click the folder icon.
+
+Crucial: Change the file type filter in the bottom right corner to "All files (.)".
+
+Select vund dos.iso from your folder.
+
+Write the Image:
+
+Select your USB drive letter under "Device".
+
+Click the "Write" button and confirm with "Yes".
+
+Booting the System:
+
+Restart your PC with the USB drive plugged in.
+
+As soon as the screen turns on, mash your Boot Menu key (usually F11, F12, F10, or Esc).
+
+Select your USB Flash Drive from the list.
+
+Note: If it doesn't boot, enter your BIOS and enable Legacy Support or CSM Mode.
+
+💻 Method 2: Virtual Machine (VirtualBox / QEMU)
+Safe way to test the OS without leaving Windows.
+
+Create a New VM:
+
+Name: VUND-DOS
+
+Type: Other / Version: Other/Unknown
+
+Storage Settings:
+
+In the "Storage" tab, find the Floppy Controller or IDE Controller.
+
+Add a new disk and choose the vund dos.iso file.
+
+Launch:
+
+Hit Start and watch the VUND-DOS Monolith come to life in a window!
+
+⌨️ Post-Installation: First Steps
+Once you see the VUND-DOS > prompt, try these commands:
+
+help — See all available 18+ commands.
+
+system_info — Check the architect's credentials.
+
+createimage — Enter the VGA Graphics mode.
+
+Hotkeys: Try Ctrl + B or Ctrl + L at any time.
