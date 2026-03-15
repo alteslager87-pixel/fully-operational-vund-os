@@ -7,7 +7,22 @@ DO IT!!! Read The Fucking Manual
 ---
 ## 🚀 Instant Launch
 This repository contains the pre-compiled bootable files. You don't need to compile anything unless you want to change the source code.
+---
 
+## 💻 System Requirements
+
+**VUND-DOS Gold Edition** is designed to run on almost any x86 hardware that supports Legacy booting. It is incredibly lightweight and talks directly to the silicon.
+
+| Component | Minimum Requirement | Recommended |
+| :--- | :--- | :--- |
+| **Processor** | Intel 80386 or newer | Pentium / 486 DX |
+| **Memory (RAM)** | 1 MB | 4 MB+ |
+| **Graphics** | VGA Compatible (Mode 13h support) | SVGA Card |
+| **Storage** | 1.44 MB (Floppy, USB, or HDD) | Any Legacy-bootable drive |
+| **BIOS Mode** | **Legacy / CSM** (UEFI not supported) | Legacy Support Enabled |
+| **Input** | PS/2 Keyboard | Mechanical Keyboard (for better feel) |
+
+---
 ### 📦 Included Files:
 - `boot.bin`: Compiled 512-byte Bootloader.
 - `core.bin`: Compiled Monolithic Kernel.
