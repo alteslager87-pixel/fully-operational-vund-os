@@ -2,7 +2,7 @@
 **Architect:** Yaroslav (The Coding God)  
 **Organization:** VUND-DOS TEAM  
 **Status:** READY-TO-USE (ISO & Binary Included)
-
+**DO IT!!!** Read The Fucking Manual
 ---
 
 ## 🚀 Instant Launch
