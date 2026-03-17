@@ -2,6 +2,7 @@
 **Architect:** Yaroslav (The Coding God)  
 **Organization:** VUND-DOS TEAM  
 **Status:** READY-TO-USE (ISO & Binary Included)
+** we work** at SP1(service pack 1) version, of course, no one cares, because, no one knows this project, but yeah, someone, wait our comeback!!!
 ---
 DO IT!!! Read The Fucking Manual
 ---
