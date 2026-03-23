@@ -1,9 +1,9 @@
 # 👑 VUND-DOS Gold Edition v2.00
-**Architect:** Yaroslav (The Coding God)  
+**Architect:** Yaroslav  
 **Organization:** VUND-DOS TEAM  
 **Status:** READY-TO-USE (ISO & Binary Included)
 
-** we work** at SP1(service pack 1) version, of course, no one cares, because, no one knows this project, but yeah, someone, wait our comeback!!!
+we work at SP1(service pack 1) version,it is made, but not for public use, we work at internet drivers, and of course, no one cares, because, no one knows this project, but yeah, someone, wait our comeback!!!
 ---
 DO IT!!! Read The Fucking Manual
 ---
