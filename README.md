@@ -18,7 +18,7 @@ This repository contains the pre-compiled bootable files. You don't need to comp
 | Component | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
 | **Processor** | Intel 80386 or newer | Pentium / 486 DX |
-| **Memory (RAM)** | 1 MB | 4 MB+ |
+| **Memory (RAM)** | 2 КB | 4 КB+ |
 | **Graphics** | VGA Compatible (Mode 13h support) | SVGA Card |
 | **Storage** | 1.44 MB (Floppy, USB, or HDD) | Any Legacy-bootable drive |
 | **BIOS Mode** | **Legacy / CSM** (UEFI not supported) | Legacy Support Enabled |
