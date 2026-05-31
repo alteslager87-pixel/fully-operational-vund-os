@@ -1,7 +1,7 @@
 # 👑 VUND-DOS Gold Edition v2.00
 **Architect:** Yaroslav  
 **Organization:** VUND-DOS TEAM  
-**Status:** READY-TO-USE (ISO & Binary Included)
+**Status:** not working(no file system and maybe, the OS has bad drivers,sorry for the one, who broke his computer) (ISO & Binary Included)
 
 we work at SP1(service pack 1) version,it is made, but not for public use, we work at internet drivers, and of course, no one cares, because, no one knows this project, but yeah, someone, wait our comeback!!!
 ---
